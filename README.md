@@ -1,8 +1,12 @@
-# 👋 Hi, I'm Suraj Kumar
+# 👋 Hi, I'm Suraj Kumar  
+
+![Profile Views](https://komarev.com/ghpvc/?username=SURAJML360&label=Profile%20views&color=0e75b6&style=flat)  
+![GitHub followers](https://img.shields.io/github/followers/SURAJML360?label=Followers&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/SURAJML360?label=Stars&style=social)  
 
 🎓 **BTech in Artificial Intelligence & Machine Learning (2025-2029)**  
-💻 Passionate about Python, AI, and Machine Learning  
-📍 From India, learning one project at a time  
+💻 Python Enthusiast | Future Data Scientist 🚀  
+📍 India  
 
 ---
 
@@ -15,14 +19,21 @@
 
 ## 📂 My GitHub Projects
 - [01_basic_programs](https://github.com/SURAJML360/01_basic_programs) – First Python programs  
-- [02_if_elif_else_practice](https://github.com/SURAJML360/02_if_elif_else_practice) – Conditional statements practice
+- [02_if_elif_else_practice](https://github.com/SURAJML360/02_if_elif_else_practice) – Conditional statements practice  
 
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Python (primary), C/C++ (learning soon)
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
-- **OS:** Windows / Linux
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=SURAJML360&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SURAJML360&layout=compact&theme=tokyonight)
 
 ---
 
