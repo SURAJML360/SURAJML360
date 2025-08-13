@@ -5,7 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/SURAJML360?label=Stars&style=social)  
 
 🎓 **BTech in Artificial Intelligence & Machine Learning (2025-2029)**  
-💻 Python Enthusiast | Future Data Scientist 🚀  
+💻 Python Enthusiast | Aspiring AI & ML Engineer 🚀 
 📍 India  
 
 ---
